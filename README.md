@@ -1,6 +1,3 @@
-# my_test_repo
-For testing only
-
 # Capstone
 
 ## Description
@@ -107,7 +104,7 @@ For this project, I used Javascript, HTML, and CSS. For storing media files, in 
 - [Profile](#profile)
 - [Quotes](#quotes)
 - [Exams](#exams)
-- [Ask - Q&A](#ask)
+- [Ask - Q&A](##ask---qa)
 - [Search](#search)
 - [Alerts & Messages](#alerts--messages)
 - [Other functions](#other-functions)
